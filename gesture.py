@@ -7,8 +7,8 @@ import socket
 import sys
 
 # ---------- CONFIG ----------
-stream_url = "http://192.168.0.21:81/stream"
-CHUMBO_IP = "192.168.0.21"
+stream_url = "http://10.0.0.8:81/stream"
+CHUMBO_IP = "10.0.0.8"
 UDP_PORT = 5000
 # ----------------------------
 
